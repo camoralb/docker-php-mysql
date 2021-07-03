@@ -18,6 +18,7 @@ Puedes utilizar la configuración por defecto, pero en ocasiones es recomendable
 * `MYSQL_USER` nombre de usuario para conectarse a MySQL.
 * `MYSQL_PASSWORD` clave de acceso para conectarse a MySQL.
 * `MYSQL_DATABASE` nombre de la base de datos que se crea por defecto.
+* `MYSQL_PORT` puerto de la base datos MySQL.
 
 ## Instalar el ambiente de desarrollo
 
